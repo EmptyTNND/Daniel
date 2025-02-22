@@ -1,0 +1,43 @@
+.image {
+	text-align: center;
+}
+
+body {
+	background-color: #F9E0EE;
+}
+
+.h1 {
+	text-align: center;
+	color: #ffb5d9;
+}
+
+h1 {
+	color: #ffb5d9;
+}
+
+h2 {
+	color: #ffd6e2;
+}
+
+button {
+	background-color:#ff99b6;
+	border-radius:20px;
+	border-color:#ffb5d9;
+	font-family:sans-serif;
+	width:180px;
+	height:90px;
+	text-align:center;
+	margin:10px;
+	font-size:120%;
+}
+
+.left{
+	float: left;
+	width: 47.5%;
+	text-align: right;
+  }
+  
+.right{
+	float: right;
+	width: 7.5%;
+}
